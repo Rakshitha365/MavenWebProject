@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello KMIT!</h2>
+<h2>Maven Web Project Automation!</h2>
 </body>
 </html>
